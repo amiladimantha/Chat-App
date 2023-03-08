@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4Rvavc4tKX3217MmNdk4nh3irZRaH899Jn0OSz88KoEym2O4Lndz2JqRtezXLFjnF7PVd+bZ+fl4zGfFWGRCKQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\amila\\OneDrive\\Desktop\\ChatApp\\ChatClient\\ChatClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\amila\\.nuget\\packages\\communitytoolkit.mvvm\\8.1.0\\communitytoolkit.mvvm.8.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

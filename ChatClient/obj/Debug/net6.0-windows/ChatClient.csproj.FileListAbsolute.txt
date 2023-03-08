@@ -1,0 +1,5 @@
+C:\Users\amila\OneDrive\Desktop\ChatApp\ChatClient\obj\Debug\net6.0-windows\ChatClient.csproj.AssemblyReference.cache
+C:\Users\amila\OneDrive\Desktop\ChatApp\ChatClient\obj\Debug\net6.0-windows\MVVM\View\MainWindow.g.cs
+C:\Users\amila\OneDrive\Desktop\ChatApp\ChatClient\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\amila\OneDrive\Desktop\ChatApp\ChatClient\obj\Debug\net6.0-windows\ChatClient_MarkupCompile.cache
+C:\Users\amila\OneDrive\Desktop\ChatApp\ChatClient\obj\Debug\net6.0-windows\ChatClient_MarkupCompile.lref
